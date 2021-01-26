@@ -1,0 +1,6 @@
+tags
+racecar
+__pycache__
+c_generated_code
+*.swp
+*.json

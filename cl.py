@@ -94,7 +94,6 @@ class Centerline:
             for i in range(1, p.shape[0] -1):
                 kappa[i] = curvature(p[i-1], p[i], p[i+1])
 
-
             return kappa
 
         # discretize centerline
